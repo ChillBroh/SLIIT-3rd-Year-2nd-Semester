@@ -1,0 +1,6 @@
+Github repository link : 
+Frontend - https://github.com/ChillBroh/Learnify-FE
+Backend - https://github.com/ChillBroh/Learnify-api
+
+Youtube video link :
+https://youtu.be/JRwDU77Ax44
